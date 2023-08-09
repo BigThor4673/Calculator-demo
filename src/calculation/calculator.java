@@ -9,7 +9,7 @@ package calculation;
  *
  * @author deb@ck
  */
-public class calculator extends javax.swing.JFrame {
+public class calculator extends javax.swing.JFrame 
 
     double firstnumber;
     double secondnumber;
